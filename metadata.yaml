@@ -1,0 +1,20 @@
+_repo: Theft_65876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Venable, Bill
+    gutenberg_agent_id: '53535'
+    url: http://www.gutenberg.org/2009/agents/53535
+description: ''
+gutenberg_issued: '2021-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Theft
+url: http://www.gutenberg.org/ebooks/65876
